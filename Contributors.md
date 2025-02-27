@@ -1,4 +1,5 @@
 # Contributors
+- [Ayaz-75] (https://github.com/Ayaz-75) This is Ayaz Ali, Python developer and this is my first open-source contribution.
 - [vatsalya] (https://github.com/VatsalyaBetala)
 - [jhena] (https://github.com/jhenals) This is my first contribution!
 - [Abayomi] (itsabayomi2)
